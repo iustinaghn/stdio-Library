@@ -1,0 +1,17 @@
+Nume: Ghenea Iustina
+Grupa: 332CC
+
+==================== TEMA 2 - SO ===================
+
+Functiile au fost implementate in fisierul so_stdio.c
+
+Toate functiile folosesc doar syscall-uri pentru a implementa specificatiile din enunt.
+Comportamentul lor incearca pe cat de mult posibil sa se apropie de functiile reale.
+
+Tema a reusit sa clarifice destul de multe lucruri neintelese, super faina!
+
+Am alcatuit structura _so_file din: file descriptor, buffer, pozitia curenta, dimensiunea
+curenta a bufferului, nr de bytes, flag-ul pt eroare, variabila ce retine ultima operatie
+efectuata si pid-ul.
+
+
